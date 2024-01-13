@@ -8,7 +8,7 @@
     "explicit-types": ["warn","explicit"],
     "quotes": ["warn","double"],
     "const-name-snakecase": "off",
-    "not-rely-on-time": "off",
+    "not-rely-on-time": "on",
     "avoid-low-level-calls": "off",
     "contract-name-camelcase": "off",
     "func-name-mixedcase": "off",
